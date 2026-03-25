@@ -1,1 +1,6 @@
-# baa10-30-test
+# Hello, Welcome to my repository
+
+GITHUB is;
+-Fun
+
+and the lecturer is aswel
